@@ -50,7 +50,7 @@ This is simple example basic code
 
 **Controller :**
 ```php
-use \Hermawan\DataTables\DataTable;
+use \Rifa\DataTables\DataTable;
 use \App\Models\CustomerModel;
 
 public function ajaxDatatable()

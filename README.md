@@ -21,7 +21,7 @@ For more complete example and demo please visit [Documentation here](https://cod
 ### Using composer 
 Use composer to install CodeIgniter4-DataTables into your project :
 
-  > composer require hermawan/codeigniter4-datatables
+  > composer require rifa/codeigniter4-datatables
 
 
 ## Simple Initializing
@@ -33,7 +33,7 @@ This is simple basic code just write `DataTable::of($builder)` call method `toJs
 
 **Controller :**
 ```php
-use \Hermawan\DataTables\DataTable;
+use \Rifa\DataTables\DataTable;
 
 public function ajaxDatatable()
 {
